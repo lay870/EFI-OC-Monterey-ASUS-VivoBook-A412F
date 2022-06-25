@@ -8,19 +8,19 @@ Cek Update OpenCore: https://dortania.github.io/OpenCore-Install-Guide/config-la
 ### Connectivity : Wireless Built-in 802.11ac (2x2) + Bluetooth V4.2
 
 # Worked
-### Trackpad
-### Mouse Bluetooth
-### Keyboard
-### Wireless
-### USB
-### Graphics
-### Sound
-### Control Light Display
+### - Trackpad
+### - Mouse Bluetooth
+### - Keyboard
+### - Wireless
+### - USB
+### - Graphics
+### - Sound
+### - Control Light Display
 
 # Not-Worked
-### HDMI
-### Camera
-### Button LED Keyboard
+### - HDMI
+### - Camera
+### - Button LED Keyboard
 
 ######################################
 
