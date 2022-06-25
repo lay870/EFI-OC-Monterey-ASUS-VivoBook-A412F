@@ -22,4 +22,6 @@ Cek Update OpenCore: https://dortania.github.io/OpenCore-Install-Guide/config-la
 ### Camera
 ### Button LED Keyboard
 
---- Many Thanks to *Opencore Team*
+######################################
+
+#### Many Thanks to *Opencore Team*
