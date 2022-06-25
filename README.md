@@ -1,3 +1,4 @@
+https://github.com/lay870/EFI-OC-Monterey-ASUS-VivoBook-A412F/blob/main/Screenshot%202022-06-25%20at%2015.48.32.png
 Cek Update OpenCore: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html
 # Specification:
 ### Processor : Intel Core i5-8265U (Whiskey Lake)
