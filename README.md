@@ -1,6 +1,6 @@
-Cek Update OpenCore: 
+Cek Update OpenCore: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html
 # Specification:
-### Processor : Intel Core i5-8265U
+### Processor : Intel Core i5-8265U (Whiskey Lake)
 ### Memory : 8 GB DDR4 2400MHz
 ### Display : 14.0" (16: 9) LED Background FHD (1920x1080) 60Hz 
 ### Graphics : Intel UHD Graphics 620 2048 MB
@@ -21,3 +21,5 @@ Cek Update OpenCore:
 ### HDMI
 ### Camera
 ### Button LED Keyboard
+
+--- Many Thanks to *Opencore Team*
